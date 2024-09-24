@@ -8,6 +8,10 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
  
+  metadataBase: new URL(
+    "https://abhinovdutta.vercel.app/"
+  ),
+  
   title: "Abhinov Portfolio",
   description: "Developer Portfolio By Abhinov Dutta",
   keywords: ["Developer", "Portfolio", "Developer Portflio", "Abhinov Dutta"],

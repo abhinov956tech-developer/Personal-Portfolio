@@ -19,7 +19,7 @@ const Projects: React.FC<{}> = () => {
           target="_blank"
           className="z-[1] w-full md:w-1/2 lg:w-full p-6"
         >
-          <div className="flex flex-col bg-gray-800 bg-opacity-70 rounded-xl shadow-lg p-8 mb-5">
+          <div className="flex flex-col bg-gray-800 bg-opacity-50 rounded-xl shadow-lg p-8 mb-5">
             <div className="flex flex-row">
             
               <div className="p-4">

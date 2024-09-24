@@ -13,7 +13,7 @@ const About: React.FC<{}> = () => {
           EXPLORE NOW
         </p>
         <p className="text-gray-300 text-center ">
-          As a passionate Computer Science syudent, I thrive on the intricate dance
+          As a passionate Computer Science student, I thrive on the intricate dance
           between logic and creativity. Currently immersed in the dynamic world
           of Web Development, my expertise centers around React, where I seamlessly
           blend technology with innovation.

@@ -13,7 +13,7 @@ const Experience: React.FC<{}> = () => {
     <div className="flex flex-col items-center bg-gray-800 bg-opacity-50 rounded-xl shadow-lg p-6 mt-5">
       <div className="flex flex-row justify-between w-full">
         <p className="text-gray-300">
-          <span className="font-semibold">GSSOC'24 Contributor</span>
+          <span className="font-semibold">GSSOC&apos;24 Contributor</span>
         </p>
         <p className="text-gray-300">May-August 2024</p>
       </div>

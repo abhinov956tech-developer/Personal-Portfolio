@@ -1,6 +1,6 @@
 # Personal Portfolio 🚀
 
-![Site preview]
+![Site preview] https://abhinovdutta.vercel.app/
 
 Welcome to my Personal portfolio! This project showcases my skills, projects, and experience. Built with [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), and [Tailwind CSS](https://tailwindcss.com). it not only provides a visually appealing representation of my work but also ensures optimal performance.
 
@@ -16,8 +16,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 # ✨ Development
 
 ```bash
-git clone git@github.com:ibrahimmemonn/Developer-Portfolio.git
-cd Developer-Portfolio/
+git clone git@github.com:abhinov956tech-developer/Personal-Portfolio.git
+cd Personal-Portfolio/
 
 
 npm i
